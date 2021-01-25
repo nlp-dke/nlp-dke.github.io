@@ -1,9 +1,9 @@
 ---
 permalink: /data/rareWordNMT/
-title: "Data sets"
+title: "Rare words in Neural machine translation"
 ---
 
-#  Rare words in Neural machine translation
+
 
 
 You can download the data at: 
