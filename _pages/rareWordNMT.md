@@ -4,7 +4,7 @@ title: "Rare words in Neural machine translation"
 ---
 
 
-In the work "Continuous Learning in ["Neural Machine Translation using Bilingual Dictionaries"]() we analysed the ability of NMT systems to translate rare terms and presented techniques to improve their ability to translate morphological variants.The propsed methods is based on creating a new test set using a different split of the training and test data concentrating on these terms. 
+In the work ["Continuous Learning in Neural Machine Translation using Bilingual Dictionaries"]() we analysed the ability of NMT systems to translate rare terms and presented techniques to improve their ability to translate morphological variants.The propsed methods is based on creating a new test set using a different split of the training and test data concentrating on these terms. 
 
 ## Ready-to-use-dataset
 
