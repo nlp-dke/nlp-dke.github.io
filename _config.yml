@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Natural langauge processing @ DKE, Maasticht University"
   #avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Code and data sets developed at the NLP group @ DKE"
   #links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
